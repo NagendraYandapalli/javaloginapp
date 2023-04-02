@@ -70,7 +70,7 @@
 	
 	<properties>
                <sonar.host.url>http://localhost:9000</sonar.host.url>
-               <sonar.login></sonar.login>
+               <sonar.login>4c3863b5ce20639abc99505f2fb52f9fa656d174</sonar.login>
                <sonar.language>java</sonar.language>
                <sonar.scm.provider>git</sonar.scm.provider>
         </properties>
