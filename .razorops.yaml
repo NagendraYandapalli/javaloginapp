@@ -10,3 +10,6 @@ tasks:
           -Dsonar.projectKey=java-app \
           -Dsonar.host.url=http://localhost:9000 \
           -Dsonar.login=sqp_0873bcdfc8fce078df6c43951b3dbcaef7efcff7
+          
+ <script src="https://gist.github.com/Razorops-code/2911b2bcb9aacaa8e018576664c8617a.js"></script>
+
