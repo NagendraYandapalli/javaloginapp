@@ -6,10 +6,9 @@ tasks:
     - checkout
     - commands:
       - |
-        mvn clean install sonar:sonar \
+        mvn clean verify sonar:sonar \
           -Dsonar.projectKey=java-app \
           -Dsonar.host.url=http://localhost:9000 \
-          -Dsonar.login=sqp_0873bcdfc8fce078df6c43951b3dbcaef7efcff7
-          
+          -Dsonar.login=sqp_44cd826a5590fa2a05700653bcaf0df320a2f1f2
  
 
