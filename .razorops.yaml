@@ -9,6 +9,6 @@ tasks:
         mvn clean verify sonar:sonar \
           -Dsonar.projectKey=java-app \
           -Dsonar.host.url=http://localhost:9000 \
-          -Dsonar.login=sqp_44cd826a5590fa2a05700653bcaf0df320a2f1f2
+          -Dsonar.login=sqp_19439675ce199a5d13f31d857554d13409387155
  
 
