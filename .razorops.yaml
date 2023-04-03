@@ -10,4 +10,3 @@ tasks:
           -Dsonar.projectKey=java-app \
           -Dsonar.host.url=http://localhost:9000 \
           -Dsonar.login=4c3863b5ce20639abc99505f2fb52f9fa656d174
- 
