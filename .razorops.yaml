@@ -9,6 +9,6 @@ tasks:
         
         mvn clean package sonar:sonar \
           -Dsonar.projectKey=sample \
-          -Dsonar.host.url=http://localhost:9000 \
+          -Dsonar.host.url=https://b520-49-249-225-158.in.ngrok.io \
           -Dsonar.login=9405ec0bcd254200164171c5596e98965b382562
           
