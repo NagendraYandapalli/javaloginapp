@@ -8,7 +8,7 @@ tasks:
       - |
         
         mvn clean install sonar:sonar \
-          -Dsonar.projectKey=java-app \
-          -Dsonar.host.url= http://f577-115-241-195-210.in.ngrok.io  \
-          -Dsonar.login=4c3863b5ce20639abc99505f2fb52f9fa656d174
+          -Dsonar.projectKey=sample \
+          -Dsonar.host.url=https://f577-115-241-195-210.in.ngrok.io \
+          -Dsonar.login=9405ec0bcd254200164171c5596e98965b382562
           
