@@ -8,5 +8,5 @@ tasks:
       - |
         mvn sonar:sonar \
           -Dsonar.projectKey=java-app \
-          -Dsonar.host.url=http://localhost:9000 \
+          -Dsonar.host.url= https://f577-115-241-195-210.in.ngrok.io  \
           -Dsonar.login=4c3863b5ce20639abc99505f2fb52f9fa656d174
