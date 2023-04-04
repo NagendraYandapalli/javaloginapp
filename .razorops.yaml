@@ -6,6 +6,7 @@ tasks:
     - checkout
     - commands:
       - |
+        mvn clean install
         mvn sonar:sonar \
           -Dsonar.projectKey=java-app \
           -Dsonar.host.url= https://f577-115-241-195-210.in.ngrok.io  \
