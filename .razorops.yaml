@@ -7,10 +7,10 @@ tasks:
     - commands:
       - |
         
-        mvn clean package sonar:sonar \
+        mvn sonar:sonar \
           -Dsonar.projectKey=sample \
           -Dsonar.host.url=https://b520-49-249-225-158.in.ngrok.io \
           -Dsonar.login=9405ec0bcd254200164171c5596e98965b382562
           
-          <script src="https://gist.github.com/Razorops-code/2911b2bcb9aacaa8e018576664c8617a.js"></script>
+        
           
